@@ -1,3 +1,5 @@
+package model;
+
 public class DataShow {
     private int id;
     private String descircao;

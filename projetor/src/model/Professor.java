@@ -1,3 +1,5 @@
+package model;
+
 public class Professor {
     private int id;
     private String nome;
